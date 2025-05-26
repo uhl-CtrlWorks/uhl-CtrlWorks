@@ -13,16 +13,17 @@ I enjoy working at the intersection of physical modeling, data-driven control, a
 ## 🛠️ Technical Interests
 
 ### 🔧 Cybernetics Engineering  
-System Dynamics · Control Theory · Autonomous Systems · Simulation · AI · Optimal Control · Nonlinear Control · Model Predictive Control ·  
-Adaptive Control · Deep Learning · System and Parameter Identification · Dynamics and Control of Legged Locomotion · Reinforcement Learning
+System Dynamics · Control Theory · Autonomous Systems · Simulation · AI · Optimal Control · Nonlinear Control · 
+Model Predictive Control · Adaptive Control · Deep Learning · System and Parameter Identification · 
+Dynamics and Control of Legged Locomotion · Reinforcement Learning
 
 ### 🚗 Automotive  
 Vehicle Dynamics Modeling · Drivetrain Control · Vehicle State Estimation · Processor-in-the-Loop Testing ·  
 Objective Evaluation of Driving Dynamics · ISO 26262 / Functional Safety 
 
 ### 🧩 Technology Management  
-Product Development & Design · Requirements Analysis & FMEA · Interdisciplinary Project Work · Innovation Management · CAD ·  
-Standards & Patent Research · Project Planning · Team Coordination · Economic Evaluation of Technical Solutions
+Product Development & Design · Requirements Analysis & FMEA · Interdisciplinary Project Work · Innovation Management · 
+CAD · Standards & Patent Research · Project Planning · Team Coordination · Economic Evaluation of Technical Solutions
 
 ---
 
