@@ -27,8 +27,25 @@ CAD · Standards & Patent Research · Project Planning · Team Coordination · E
 
 ---
 
-## 🧰 Tools & Languages  
-MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab · Git · LaTeX · NXP MBDT · Infineon HSP · Siemens NX
+## 🧰 Tools & Languages
+
+### 🛠 Modeling & Simulation  
+MATLAB, Simulink (extensive experience with toolboxes: Control System Toolbox, System Identification Toolbox, Simulink Test, Parameter Estimation App, Symbolic Math Toolbox, Embedded Coder, Simulink Coder, Signal Processing Toolbox, Simscape, Simulink Control Design), Siemens NX
+
+### ⚙️ Embedded Software  
+NXP MBDT, Infineon HSP
+
+### 🤖 Machine Learning & Data Science  
+Python, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Google Colab
+
+### 💻 Programming & Web  
+Java, HTML, CSS, Basic256
+
+### 🧩 Collaboration & Project Management  
+Git, Jira, Monday, Confluence, draw.io
+
+### 📝 Documentation & Visualization  
+Microsoft Office, LaTeX, Inkscape
 
 ---
 
@@ -47,7 +64,7 @@ MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab 
 ---
 
 ## 📫 Contact  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramón-tamino-uhl-a79105201)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-tamino-uhl)
 - 🌐 [Linktree](https://linktr.ee/uhlramon)  
 - 🧬 [ORCID – Profile](https://orcid.org/0009-0005-9511-1268)  
 
