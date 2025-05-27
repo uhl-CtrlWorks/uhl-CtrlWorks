@@ -32,6 +32,15 @@ MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab 
 
 ---
 
+## 📚 Publications
+
+- **Uhl, R. T.**, Schüle, I., Ludmann, L., & Geist, A. R. (2025).  
+  *Development and Evaluation of a Combined Driveline Oscillation and Traction Controller Using Model Predictive Control and Reinforcement Learning: A Comparative Case Study*.  
+  SAE Technical Paper 2025-01-0291.  
+  [🔗 Read on SAE](https://www.sae.org/publications/technical-papers/content/2025-01-0291/)
+
+---
+
 ## 📂 Featured Projects  
 - 🔧 [CV](https://github.com/users/uhl-CtrlWorks/projects/1): My Personal CV in German and English
 
@@ -40,7 +49,7 @@ MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab 
 ## 📫 Contact  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramón-tamino-uhl-a79105201)
 - 🌐 [Linktree](https://linktr.ee/uhlramon)  
-- 🧬 [ORCID – Profile]([https://orcid.org/0000-0002-XXXX-XXXX](https://orcid.org/0009-0005-9511-1268))  
+- 🧬 [ORCID – Profile](https://orcid.org/0000-0002-XXXX-XXXX](https://orcid.org/0009-0005-9511-1268)  
 
 ---
 
