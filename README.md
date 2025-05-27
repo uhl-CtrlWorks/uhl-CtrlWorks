@@ -49,7 +49,7 @@ MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab 
 ## 📫 Contact  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramón-tamino-uhl-a79105201)
 - 🌐 [Linktree](https://linktr.ee/uhlramon)  
-- 🧬 [ORCID – Profile](https://orcid.org/0000-0002-XXXX-XXXX](https://orcid.org/0009-0005-9511-1268)  
+- 🧬 [ORCID – Profile](https://orcid.org/0009-0005-9511-1268)  
 
 ---
 
