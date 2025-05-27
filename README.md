@@ -42,7 +42,7 @@ MATLAB · Simulink · Python · Java · HTML · CSS · Basic256 · Google Colab 
 ---
 
 ## 📂 Featured Projects  
-- 🔧 [CV](https://github.com/users/uhl-CtrlWorks/projects/1): My Personal CV in German and English with a free to use Template
+- 🔧 [CV](https://github.com/users/uhl-CtrlWorks/projects/1): My Personal CV in German and English with a free to use Word Template
 
 ---
 
